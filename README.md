@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**twinkletoes828/twinkletoes828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+* 19
+* Might be a cat irl
+* Monero user
 
-Here are some ideas to get you started:
+## Stuff i've done
+* Roblox Fisch , security , cheater database ( Used to be @ band4.band , no longer maintained or active )
+* Roblox Dig , QA & Exploit pentest
+* DreamHook , small project by me and Bungie , very humanised aim assist , lots of math . ( No longer maintained or active )
+* MeowDB , database management system & database indexer , written in 100% Lua . ( No longer maintained or active )
+* MeowHash , encryption algorithm written in 100% Lua . ( Active but not maintained )
+* Others I cannot mention , iykyk .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+## OS
+<img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white"/>
+
+## Tools & Software
+<img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white"/>
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF"/>
